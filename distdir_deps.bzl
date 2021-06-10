@@ -162,11 +162,11 @@ DIST_DEPS = {
         ],
     },
     "abseil-cpp": {
-        "archive": "df3ea785d8c30a9503321a3d35ee7d35808f190d.tar.gz",
-        "sha256": "f368a8476f4e2e0eccf8a7318b98dafbe30b2600f4e3cf52636e5eb145aba06a",
+        "archive": "8f92175783c9685045c50f227e7c10f1cddb4d58.tar.gz",
+        "sha256": "4f5c14510e6c7d80cb0aa3579aff22cc7428d9c2f7362cd24db79249b391c728",
         "urls": [
-            "https://mirror.bazel.build/github.com/abseil/abseil-cpp/archive/df3ea785d8c30a9503321a3d35ee7d35808f190d.tar.gz",
-            "https://github.com/abseil/abseil-cpp/archive/df3ea785d8c30a9503321a3d35ee7d35808f190d.tar.gz",
+            "https://mirror.bazel.build/github.com/abseil/abseil-cpp/archive/8f92175783c9685045c50f227e7c10f1cddb4d58.tar.gz",
+            "https://github.com/abseil/abseil-cpp/archive/8f92175783c9685045c50f227e7c10f1cddb4d58.tar.gz",
         ],
         "used_in": [
             "additional_distfiles",
